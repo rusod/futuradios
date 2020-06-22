@@ -1,0 +1,14 @@
+{
+  "name": "futuradios",
+  "version": "0.1.0",
+  "description": "Aplicacion experimental para probar electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "TNT",
+  "dependencies": {
+    "electron": "^9.0.3",
+    "jssoup": "0.0.11"
+  }
+}
