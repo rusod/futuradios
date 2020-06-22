@@ -29,6 +29,7 @@ function player_init(){
   rm.add(new RadioPlayerOnPage('http://es.streema.com/radios/play/Radio', 'Radio 10', 'img/R10_icon.png'))
   rm.add(new RadioPlayerOnPage('http://es.streema.com/radios/play/LR11_Radio_Universidad_FM', 'Radio Univerdidad LP', 'img/radio_universidad_lp_icon.png'))
   rm.add(new RadioPlayerOnPage('http://es.streema.com/radios/play/La_Patriada_FM', 'La patriada FM', 'img/lapatriada_icon.png'))
+  rm.add(new RadioPlayerOnSrc('html/eldestape.html', 'eldestape', 'img/eldestape_icon.png'))
   rm.add(new RadioPlayerOnPage('http://es.streema.com/radios/play/FM_Zonica_105.9', 'Radio Zonica', 'img/zonica_icon.png'))
 }
 
